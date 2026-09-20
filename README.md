@@ -1,4 +1,4 @@
-# ✨ [AARUSH GANDOTRA] — Portfolio
+# ✨ AARUSH GANDOTRA — Portfolio
  
 **A hand-crafted React frontend showcasing my UI design and engineering skills.**
 
